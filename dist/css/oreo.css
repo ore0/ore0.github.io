@@ -1,10 +1,6 @@
 @charset "UTF-8";
 
-.list-unstyled p {
-  margin-bottom: 0px;
-}
-
-.list-unstyled li {
+.list-unstyled .update_content li {
   margin-left: 40px;
   margin-bottom: 5px;
   list-style-type: circle;
