@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.list-unstyled p {
+  margin-bottom: 0px;
+}
+
+.list-unstyled li {
+  margin-left: 40px;
+  list-style-type: circle;
+}
